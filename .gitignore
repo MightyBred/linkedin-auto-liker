@@ -1,0 +1,7 @@
+linkedin_bot_state.json
+__pycache__/
+*.pyc
+.env
+*.log
+.vscode/
+.idea/
